@@ -1,4 +1,4 @@
-Hospital Management
+# Hospital Management
 This repository contains a Hospital Management System built using Django, a high-level Python web framework. The system provides a comprehensive solution for managing various aspects of hospital operations, including patient management, doctor management, appointment scheduling, and more.
 Features:
 User Authentication: Secure login and registration functionality for administrators, doctors, and patients.

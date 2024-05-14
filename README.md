@@ -41,7 +41,6 @@ http://127.0.0.1:8000/
 
 # Contributor
 * Ron Aryeetey
-  www.linkedin.com/in/aaron-aryeetey-1036684b
 
 
 

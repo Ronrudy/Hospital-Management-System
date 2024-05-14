@@ -27,7 +27,7 @@ This repository contains a Hospital Management System built using Django, a high
 * Git: used for controlling and tracking changes in the project codebase
 * Github: hosting service for Git repositories
 
-# HOW TO RUN THIS PROJECT
+# How to run this project
 * Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
 * Open Terminal and Execute Following Commands :
 pip install django==3.0.5

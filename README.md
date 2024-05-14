@@ -1,5 +1,5 @@
 # Hospital Management
-![Screenshot 2024-04-30 102239](https://github.com/Ronrudy/Hospital-Management-System/assets/136009363/2fec3ece-df89-4c5a-a428-efe20a2172b7)![Screenshot 2024-04-30 102239]
+![Screenshot 2024-04-30 102239](https://github.com/Ronrudy/Hospital-Management-System/assets/136009363/2fec3ece-df89-4c5a-a428-efe20a2172b7)
 
 This repository contains a Hospital Management System built using Django, a high-level Python web framework. The system provides a comprehensive solution for managing various aspects of hospital operations, including patient management, doctor management, appointment scheduling, and more.
 ## Features:
